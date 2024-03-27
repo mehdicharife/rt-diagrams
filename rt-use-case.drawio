@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T12:12:03.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Oca1vyUhrgYrd4I2ox2I" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T14:51:36.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="7CdvSYrdWmgqIyAku5mv" version="24.2.0" type="github">
   <diagram name="Page-1" id="u3t_uSrbroYxwzemvKYN">
     <mxGraphModel dx="1426" dy="708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1286,13 +1286,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PBOe78h8bN2QG_alQDtk-290" value="examiner les fiches validées par RPO&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="2723" width="240" height="40" as="geometry" />
+          <mxGeometry x="2714" y="2730" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PBOe78h8bN2QG_alQDtk-291" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;rejeter&amp;nbsp; fiche&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3073.75" y="2753" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PBOe78h8bN2QG_alQDtk-292" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;valider fiche&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2860" y="2688" width="197.5" height="25" as="geometry" />
+          <mxGeometry x="2774" y="2645" width="197.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="PBOe78h8bN2QG_alQDtk-293" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="PBOe78h8bN2QG_alQDtk-291" target="PBOe78h8bN2QG_alQDtk-290" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1300,13 +1300,11 @@
             <mxPoint x="3162.5" y="3036" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PBOe78h8bN2QG_alQDtk-294" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.307;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PBOe78h8bN2QG_alQDtk-292" target="PBOe78h8bN2QG_alQDtk-290" edge="1">
+        <mxCell id="PBOe78h8bN2QG_alQDtk-294" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="PBOe78h8bN2QG_alQDtk-292" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="3014.5" y="3057" as="sourcePoint" />
-            <mxPoint x="2810" y="2730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2820" y="2700" />
-            </Array>
+            <mxPoint x="2873" y="2734" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PBOe78h8bN2QG_alQDtk-295" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Envoyer un commentaire de rejet&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
